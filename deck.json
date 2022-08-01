@@ -35,7 +35,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 3
+                "perDay": 2
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -159,71 +159,70 @@
         "39640_frames.png",
         "39770_frames.png",
         "googletts-02cdfcba-560fd6ba-6a8e822d-535b1f2b-2ec85a4f.mp3",
+        "googletts-038821df-854d9e63-2f6fe5ff-baffc190-61d85090.mp3",
+        "googletts-043bbeb3-ace30fe2-608630f6-dcaf71ee-28f0b755.mp3",
         "googletts-0494ff84-5573c0cd-ca95ab9d-31348150-7cca4cb2.mp3",
         "googletts-0617a3f7-e7c00ea2-7842a628-f010dbc7-ae6d5409.mp3",
         "googletts-0711ecae-4b476927-ca266312-c7eaebb2-b029830a.mp3",
         "googletts-084b2532-ba4e041b-cb83c086-3c3e9022-4f8d8572.mp3",
+        "googletts-0a952903-18c511c2-ceb0a940-6755451d-dde760ce.mp3",
         "googletts-0d18a3df-7ace9527-08149b90-be123593-c8983241.mp3",
+        "googletts-1578efc2-bad5ef8c-1d7d8407-de8679ed-3b11857f.mp3",
         "googletts-167e34d0-c7d4649c-0bd737de-603563d7-558799a2.mp3",
         "googletts-1a12a492-d70d07d4-abd645e4-b70d4487-0202914a.mp3",
         "googletts-1d29eab6-48aed848-dd017b99-cba1cda5-c526327c.mp3",
         "googletts-1f1a8d70-1050cd8e-ac8d9238-a7235105-8e537652.mp3",
-        "googletts-25c9cb4a-db9f7709-26bea6fd-e37395af-547647f0.mp3",
+        "googletts-254ca0f8-ff5cd7ef-446008f2-79ae1f4e-109b7413.mp3",
         "googletts-2ca0746a-99efaded-4b313d1c-49c9783d-5e3c6c74.mp3",
         "googletts-2d2e7873-c61ea43c-b5864bb8-e85268ee-e1284ae5.mp3",
         "googletts-2e91ba66-7f2db086-b297c882-5cff3d3b-9dd3413e.mp3",
         "googletts-30b10876-f22db237-43ef19e8-801ea9bd-5cf2ce73.mp3",
-        "googletts-34932014-699746f7-f118b72e-c27b0425-8c6eedfa.mp3",
         "googletts-39d194aa-4f692f6c-5efcbbca-b792e8a5-f2b82546.mp3",
         "googletts-3df308b7-650e6ca0-33fb92d2-74cd7bc0-dfd0a77a.mp3",
         "googletts-40a0a854-c9a6f82c-fec5f9f9-d2a5d324-fa12a73b.mp3",
-        "googletts-47be295d-eb5c8e7a-12a199d0-84012ea1-7462a222.mp3",
+        "googletts-45795d6f-0ebee094-396dbb0d-fe941c7c-ff07b966.mp3",
+        "googletts-4894d149-2ba79c6a-60347f56-1d91d5a6-3e4c42ad.mp3",
         "googletts-497da8eb-f81dcf3b-9c7f997c-005b9cde-25eb6cd7.mp3",
         "googletts-4dae70f7-89aa573d-869ddcd6-2e5b0707-78ec1b69.mp3",
-        "googletts-4fd5482a-c1f82e6e-ca1498c4-55860d9c-89be97f6.mp3",
         "googletts-510b4f53-66523b5a-341171b3-a9bac2c6-7584a4ff.mp3",
-        "googletts-5aabc080-cc68c960-487e5e9b-d99d9e09-af91078e.mp3",
+        "googletts-51eda749-56ac5657-42a6a0e8-7995bc68-99096cae.mp3",
         "googletts-5d29226c-ef1323d6-7f8c78bf-519ca5b7-e7acd2ce.mp3",
         "googletts-5efb3a9e-6b51a8ed-fe6feca3-226ec1eb-e1a48a85.mp3",
-        "googletts-615ff618-4ed6ed6c-a093550d-811e05a3-63db65c5.mp3",
+        "googletts-639941c7-899d727f-e31a0071-8cb514a6-11bece79.mp3",
         "googletts-6937ade1-199ef8d4-92aa9491-931aa7c9-016940f9.mp3",
         "googletts-69d850f6-24f2d900-7bf094ee-b5f9414a-85502e27.mp3",
         "googletts-6a48c68a-61180802-0d6a4bf0-d25b9822-b801e2a6.mp3",
         "googletts-6b7c8d90-b1ea0350-e2e21238-21f216a2-a4cdf4a8.mp3",
+        "googletts-73ce0ef7-7d0f4fd5-dde7ebcc-a465c2d4-f4a5a8cc.mp3",
         "googletts-75daefb5-4b8d8239-4bc6ce5c-f678cf7c-09914995.mp3",
         "googletts-780b93c6-bbbea5da-7402100e-67d0ee78-2f4a1135.mp3",
         "googletts-79f9148f-1e1bd7c3-84e875a2-27439d8a-92c657ee.mp3",
         "googletts-7a018bc8-75070fd6-2590fcc4-eaa573ee-3a6486ae.mp3",
         "googletts-7a4701b5-7ce6ebec-6d1f72d7-a5d16fcc-16f9af55.mp3",
         "googletts-7a58ca73-b9eea677-f4dddbe0-bc2b304b-28936195.mp3",
-        "googletts-7ae5f15b-523dcf88-ceca35fa-96299059-0f981cfb.mp3",
         "googletts-7b8c7b8b-7d986b43-2529ab59-cce64e32-129b15d1.mp3",
         "googletts-7d5503e1-36f7f700-ab748d7d-672d95d8-4463fd9d.mp3",
-        "googletts-7fbced65-91cadc88-3a8ef0b5-0124115d-1c3680e6.mp3",
         "googletts-80017306-cfa41754-38aa8289-d74aaef7-8a7a2a50.mp3",
         "googletts-83b8fbe8-0373b917-253eeca9-3d9c6bec-a6e25883.mp3",
         "googletts-84bdd14d-aaadd614-f3ae8481-fcba7064-37ed8b05.mp3",
         "googletts-8525974a-6bda8b2b-58df1b1a-af4c1b71-c4e0be29.mp3",
         "googletts-8546091c-4bf7cafc-ff630baf-9faa7444-37de318a.mp3",
         "googletts-85e547dc-62f77268-14e92f69-d76f1559-77f443c4.mp3",
-        "googletts-891141ff-a47efce6-5870181f-abc236f0-7569ae5a.mp3",
+        "googletts-8af10acb-2431f818-139a077d-a85dcdb1-35a52a93.mp3",
         "googletts-8d410eea-8ce53e22-6a248e0f-d22b0fa8-7c70edf5.mp3",
-        "googletts-8f141c00-6627ea43-d2de2f70-c431e10c-29c67215.mp3",
         "googletts-8f24e4d5-1313fc57-cb049480-466fc748-7721925f.mp3",
         "googletts-8f7c66d8-778690eb-e0973f2a-9b6c62f2-9ba640ce.mp3",
         "googletts-91048f9d-b55c5dc8-a95a8bfb-f395d65c-25c7dc18.mp3",
+        "googletts-91352931-90bf3181-43535ad6-4404d5eb-44da6d25.mp3",
         "googletts-942ae1cf-e1812e4f-3b8cf339-4b6319e0-5fc45250.mp3",
         "googletts-97eab7cc-fad67bae-908aaf47-fd46a5d4-db77d801.mp3",
         "googletts-9d54f121-6db743da-45ed8090-a0d34f4d-d184754e.mp3",
         "googletts-9ea9403a-c5a8938b-e6aeef5e-aa0f01a8-ab58d946.mp3",
         "googletts-9ff1983a-54614429-71a08c59-584c9e5a-46c74cd3.mp3",
-        "googletts-a34814d9-3ea972af-5ce3e8d7-b45383d0-d4bffd4d.mp3",
-        "googletts-a52f179b-fb776e62-6a9ab9c4-57e8027f-d0f2f195.mp3",
         "googletts-a675d0a6-2c46ae71-6845aad7-f876e0d3-ea55bc3f.mp3",
-        "googletts-aafba2af-c4ed2e47-a3658793-d27bb31f-b62cc0e9.mp3",
+        "googletts-ab0aab1d-60a71f1d-b18f46ce-a0b1c3c1-4a398d82.mp3",
         "googletts-ae97b988-d0265607-7b7baa78-4879537f-4e30f622.mp3",
         "googletts-b67e8e5a-c96bfb32-1d5123fd-b97da123-a5039ef6.mp3",
-        "googletts-b76bf94d-c7aff179-5817f616-9037b4b3-5580f625.mp3",
         "googletts-b9f68573-00842c5b-c851dd0b-1896fa20-7ab43919.mp3",
         "googletts-bb16e474-34ad1372-4bdfaa18-90bbce2b-c24a2c92.mp3",
         "googletts-be36f531-29f0c5a4-635a22a6-ae03eda1-e7c17bcb.mp3",
@@ -237,26 +236,27 @@
         "googletts-c96a2053-bdc85833-51dffd8f-55c38d07-535f2287.mp3",
         "googletts-cbb29096-ef87eb53-74d6420d-4344ae4d-04db539e.mp3",
         "googletts-cef2c2fe-1098e744-71b126ae-19d3cc29-1440d6c4.mp3",
+        "googletts-cff7d4da-f344d4cf-5dca1795-85ce8eba-13d5bc24.mp3",
         "googletts-d025ca60-4fa1534f-9cb128be-2053d6e9-f5b7497e.mp3",
+        "googletts-d56a851f-c0214030-a448eb10-fd9911ca-401d09ec.mp3",
         "googletts-d759a871-3007a4c6-46dd1a56-f812a78e-3353b95f.mp3",
         "googletts-d8b99adc-a8eb99b8-118f0a4f-42f29f41-049efa1a.mp3",
         "googletts-da617af5-030d6bff-1efc9399-20132bfe-ec55a380.mp3",
         "googletts-da62cd50-0c636c7a-0d39333b-7046cce5-7b7bbdf9.mp3",
         "googletts-dbd7f736-21dcb63b-66e2b934-4bcb2837-abbec448.mp3",
-        "googletts-dda6db5f-7a517061-a6c0d40e-179f7c9a-97d4f065.mp3",
         "googletts-ddf69cb8-e541e08f-9851704c-0e0add2f-ea4d94a4.mp3",
-        "googletts-dfe58185-22a9505a-35eac3b2-95070b68-1aa2b7eb.mp3",
+        "googletts-e19d9832-bd3637bd-a75912c8-737dc197-bc2ce0b6.mp3",
         "googletts-e372c34f-fc168272-72b61ca8-b5cfaf62-d6bb4e59.mp3",
-        "googletts-e66012a2-0ec99113-cd6bff08-05ea0a46-80040f9b.mp3",
         "googletts-e67bfe1e-c03a441c-5eebcec9-418a23d5-4118a897.mp3",
+        "googletts-e847ece5-b90dd5aa-ec20c483-b32baf57-5b7fb4a5.mp3",
         "googletts-e9aae91e-b9cce463-b1ef9dd2-6c07f90c-b38c3697.mp3",
         "googletts-eade98a9-7515f856-d3f19613-327def84-c8e5a065.mp3",
         "googletts-ebb3dd8e-33fdc534-4bcc9431-25ce1678-53803170.mp3",
         "googletts-ec167621-76e663a5-18bb4bc9-af62a97f-6cd72946.mp3",
         "googletts-f0587ac3-faa615d6-44f1b245-88bebb40-96b24781.mp3",
-        "googletts-f0a9204d-652d2638-5cf6d079-7e7fbcfb-55885647.mp3",
         "googletts-f0e14882-1d528e07-fd7d33e4-5e27b51d-81c440b9.mp3",
-        "googletts-f2952213-ad01c922-f4401da8-2bfc0b15-7548a2ca.mp3",
+        "googletts-f1657267-d9e871e8-53147c8a-33d02ff9-df9a609b.mp3",
+        "googletts-f3177616-409c144f-a1526506-5dde5d18-40e416a9.mp3",
         "googletts-f406829e-db7fec38-f8ae2922-93f72480-57bb47ac.mp3",
         "googletts-f5926bcb-ae561768-feac6309-7ff6de71-f7c7bccf.mp3",
         "googletts-f8448bbb-5a9b747c-0b40b630-82691b39-a18f6894.mp3",
@@ -605,7 +605,7 @@
             "__type__": "Note",
             "fields": [
                 "天[てん]",
-                "<b>Himmel</b>",
+                "<b>Himmel (spirituell, religiös)</b>",
                 "<img src=\"22825_frames.png\" />",
                 "[sound:googletts-80017306-cfa41754-38aa8289-d74aaef7-8a7a2a50.mp3]"
             ],
@@ -673,7 +673,8 @@
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
             "tags": [
                 "JLPT5",
-                "Kanji"
+                "Kanji",
+                "leech"
             ]
         },
         {
@@ -995,7 +996,7 @@
             "__type__": "Note",
             "fields": [
                 "男[おとこ]",
-                "<b>Man, männlich</b>",
+                "<b>Mann, männlich</b>",
                 "<img src=\"30007_frames.png\" />",
                 "[sound:googletts-6b7c8d90-b1ea0350-e2e21238-21f216a2-a4cdf4a8.mp3]"
             ],
@@ -1024,7 +1025,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "小[ちいさい]",
+                "小[ちい]さい",
                 "<b>klein</b>",
                 "<img src=\"23567_frames.png\" />",
                 "[sound:googletts-e9aae91e-b9cce463-b1ef9dd2-6c07f90c-b38c3697.mp3]"
@@ -1040,7 +1041,7 @@
             "__type__": "Note",
             "fields": [
                 "中[なか]",
-                "<b>mittlere, in der Mitte, unter</b>",
+                "<b>mittlere, innerhalb, in der Mitte, unter</b>",
                 "<img src=\"20013_frames.png\" />",
                 "[sound:googletts-40a0a854-c9a6f82c-fec5f9f9-d2a5d324-fa12a73b.mp3]"
             ],
@@ -1114,10 +1115,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "行[いく]",
+                "行[い]く",
                 "<b>(hin)gehen, fahren, fliegen</b>",
                 "<img src=\"34892_frames.png\" />",
-                "[sound:googletts-8f141c00-6627ea43-d2de2f70-c431e10c-29c67215.mp3]"
+                "[sound:googletts-639941c7-899d727f-e31a0071-8cb514a6-11bece79.mp3]"
             ],
             "guid": "roB-*`Kas0",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1129,7 +1130,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "見[み]",
+                "見[み]る",
                 "<b>sehen, sichtbar sein, zeigen</b>",
                 "<img src=\"35211_frames.png\" />",
                 "[sound:googletts-eade98a9-7515f856-d3f19613-327def84-c8e5a065.mp3]"
@@ -1160,7 +1161,7 @@
             "__type__": "Note",
             "fields": [
                 "語[ご]",
-                "Sprache",
+                "<b>Sprache</b>",
                 "<img src=\"35486_frames.png\" />",
                 "[sound:googletts-02cdfcba-560fd6ba-6a8e822d-535b1f2b-2ec85a4f.mp3]"
             ],
@@ -1174,10 +1175,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "食[たべる]",
-                "<b>Essen, essen</b>",
+                "食[た]べる",
+                "<b>essen</b>",
                 "<img src=\"39135_frames.png\" />",
-                "[sound:googletts-5aabc080-cc68c960-487e5e9b-d99d9e09-af91078e.mp3]"
+                "[sound:googletts-0a952903-18c511c2-ceb0a940-6755451d-dde760ce.mp3]"
             ],
             "guid": "P.|rO&X;j[",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1189,10 +1190,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "飲[のむ]",
+                "飲[の]む",
                 "<b>trinken</b>",
                 "<img src=\"39154_frames.png\" />",
-                "[sound:googletts-b76bf94d-c7aff179-5817f616-9037b4b3-5580f625.mp3]"
+                "[sound:googletts-043bbeb3-ace30fe2-608630f6-dcaf71ee-28f0b755.mp3]"
             ],
             "guid": "hc:r(I^wCc",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1204,8 +1205,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "会[かい]",
-                "<b>Meeting, treffen</b>",
+                "会[あ]う",
+                "<b>jmd. treffen</b>",
                 "<img src=\"20250_frames.png\" />",
                 "[sound:googletts-1a12a492-d70d07d4-abd645e4-b70d4487-0202914a.mp3]"
             ],
@@ -1234,10 +1235,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "休[きゅう]",
+                "休[やす]む",
                 "<b>pausieren, schlafen</b>",
                 "<img src=\"20241_frames.png\" />",
-                "[sound:googletts-25c9cb4a-db9f7709-26bea6fd-e37395af-547647f0.mp3]"
+                "[sound:googletts-4894d149-2ba79c6a-60347f56-1d91d5a6-3e4c42ad.mp3]"
             ],
             "guid": "pKY22WW`V%",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1249,7 +1250,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "買[かう]",
+                "買[か]う",
                 "<b>kaufen</b>",
                 "<img src=\"36023_frames.png\" />",
                 "[sound:googletts-d8b99adc-a8eb99b8-118f0a4f-42f29f41-049efa1a.mp3]"
@@ -1264,10 +1265,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "聞[きく]",
+                "聞[き]く",
                 "<b>hören</b>",
                 "<img src=\"32862_frames.png\" />",
-                "[sound:googletts-a52f179b-fb776e62-6a9ab9c4-57e8027f-d0f2f195.mp3]"
+                "[sound:googletts-f1657267-d9e871e8-53147c8a-33d02ff9-df9a609b.mp3]"
             ],
             "guid": "N2N`kzTK_b",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1279,10 +1280,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "来[き]",
+                "来[く]る",
                 "<b>kommen</b>",
                 "<img src=\"26469_frames.png\" />",
-                "[sound:googletts-f0a9204d-652d2638-5cf6d079-7e7fbcfb-55885647.mp3]"
+                "[sound:googletts-e19d9832-bd3637bd-a75912c8-737dc197-bc2ce0b6.mp3]"
             ],
             "guid": "tJw/k9L^]b",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1294,10 +1295,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "立[たつ]",
+                "立[た]つ",
                 "<b>aufstehen, errichten</b>",
-                "<img src=\"31435_frames.png\" />",
-                "[sound:googletts-f2952213-ad01c922-f4401da8-2bfc0b15-7548a2ca.mp3]"
+                "<img src=\"31435_frames.png\">",
+                "[sound:googletts-f3177616-409c144f-a1526506-5dde5d18-40e416a9.mp3]"
             ],
             "guid": "edTR3dKq)X",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1309,10 +1310,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "生[せい]",
+                "生[い]きる",
                 "<b>leben, wachsen, geboren werden</b>",
                 "<img src=\"29983_frames.png\" />",
-                "[sound:googletts-dfe58185-22a9505a-35eac3b2-95070b68-1aa2b7eb.mp3]"
+                "[sound:googletts-d56a851f-c0214030-a448eb10-fd9911ca-401d09ec.mp3]"
             ],
             "guid": "B1kK~KxLlL",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1322,7 +1323,7 @@
             "__type__": "Note",
             "fields": [
                 "話[はなし]",
-                "<b>Erzählung, Geschichte, sprechen</b>",
+                "<b>Erzählung, Geschichte</b>",
                 "<img src=\"35441_frames.png\" />",
                 "[sound:googletts-75daefb5-4b8d8239-4bc6ce5c-f678cf7c-09914995.mp3]"
             ],
@@ -1336,10 +1337,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "出[で]",
+                "出[で]る",
                 "<b>verlassen, rausgehen</b>",
                 "<img src=\"20986_frames.png\" />",
-                "[sound:googletts-891141ff-a47efce6-5870181f-abc236f0-7569ae5a.mp3]"
+                "[sound:googletts-51eda749-56ac5657-42a6a0e8-7995bc68-99096cae.mp3]"
             ],
             "guid": "Q6Z->rn6Bu",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1351,10 +1352,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "読[よむ]",
+                "読[よ]む",
                 "<b>lesen</b>",
                 "<img src=\"35501_frames.png\" />",
-                "[sound:googletts-aafba2af-c4ed2e47-a3658793-d27bb31f-b62cc0e9.mp3]"
+                "[sound:googletts-ab0aab1d-60a71f1d-b18f46ce-a0b1c3c1-4a398d82.mp3]"
             ],
             "guid": "FI57JynM=>",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1366,10 +1367,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "入[はいる]",
+                "入[はい]る",
                 "<b>betreten, hineingehen, eintreten</b>",
                 "<img src=\"20837_frames.png\" />",
-                "[sound:googletts-4fd5482a-c1f82e6e-ca1498c4-55860d9c-89be97f6.mp3]"
+                "[sound:googletts-cff7d4da-f344d4cf-5dca1795-85ce8eba-13d5bc24.mp3]"
             ],
             "guid": "E<0oc)$^zw",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1381,10 +1382,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "書[かく]",
+                "書[か]く",
                 "<b>schreiben, malen</b>",
                 "<img src=\"26360_frames.png\" />",
-                "[sound:googletts-34932014-699746f7-f118b72e-c27b0425-8c6eedfa.mp3]"
+                "[sound:googletts-73ce0ef7-7d0f4fd5-dde7ebcc-a465c2d4-f4a5a8cc.mp3]"
             ],
             "guid": "tl!Tt;zSUL",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1396,10 +1397,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "後[ご]",
+                "後[あと]",
                 "<div><b>hinter (räumlich), nach, später (zeitlich)</b></div>",
                 "<img src=\"24460_frames.png\" />",
-                "[sound:googletts-a34814d9-3ea972af-5ce3e8d7-b45383d0-d4bffd4d.mp3]"
+                "[sound:googletts-91352931-90bf3181-43535ad6-4404d5eb-44da6d25.mp3]"
             ],
             "guid": "e.V.wCO94M",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1411,10 +1412,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "古[ふる]",
+                "古[ふる]い",
                 "<b>alt, gebraucht</b>",
                 "<img src=\"21476_frames.png\" />",
-                "[sound:googletts-7ae5f15b-523dcf88-ceca35fa-96299059-0f981cfb.mp3]"
+                "[sound:googletts-e847ece5-b90dd5aa-ec20c483-b32baf57-5b7fb4a5.mp3]"
             ],
             "guid": "E,&bqQ;.4J",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1426,10 +1427,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "高[たか]",
+                "高[たか]い",
                 "<b>hoch, teuer</b>",
                 "<img src=\"39640_frames.png\" />",
-                "[sound:googletts-7fbced65-91cadc88-3a8ef0b5-0124115d-1c3680e6.mp3]"
+                "[sound:googletts-8af10acb-2431f818-139a077d-a85dcdb1-35a52a93.mp3]"
             ],
             "guid": "O$T2QI7gU4",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1441,10 +1442,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "安[やす]",
+                "安[やす]い",
                 "<b>günstig, billig</b>",
                 "<img src=\"23433_frames.png\" />",
-                "[sound:googletts-47be295d-eb5c8e7a-12a199d0-84012ea1-7462a222.mp3]"
+                "[sound:googletts-254ca0f8-ff5cd7ef-446008f2-79ae1f4e-109b7413.mp3]"
             ],
             "guid": "h^V]Ij:C9C",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1456,10 +1457,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "多[おおい]",
+                "多[おお]い",
                 "<b>viele, zahlreich</b>",
                 "<img src=\"22810_frames.png\" />",
-                "[sound:googletts-dda6db5f-7a517061-a6c0d40e-179f7c9a-97d4f065.mp3]"
+                "[sound:googletts-038821df-854d9e63-2f6fe5ff-baffc190-61d85090.mp3]"
             ],
             "guid": "N,[lj~k.*n",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1471,10 +1472,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "新[あたらしい]",
+                "新[あたら]しい",
                 "<b>neu</b>",
                 "<img src=\"26032_frames.png\" />",
-                "[sound:googletts-e66012a2-0ec99113-cd6bff08-05ea0a46-80040f9b.mp3]"
+                "[sound:googletts-1578efc2-bad5ef8c-1d7d8407-de8679ed-3b11857f.mp3]"
             ],
             "guid": "p&>%lb+V)z",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1486,10 +1487,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "少し[すこし]",
+                "少[すこ]し",
                 "<b>ein bisschen, ein wenig</b>",
                 "<img src=\"23569_frames.png\" />",
-                "[sound:googletts-615ff618-4ed6ed6c-a093550d-811e05a3-63db65c5.mp3]"
+                "[sound:googletts-45795d6f-0ebee094-396dbb0d-fe941c7c-ff07b966.mp3]"
             ],
             "guid": "@$,Y{X;Yp",
             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
